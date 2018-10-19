@@ -1,0 +1,3 @@
+Hello, %username%!
+
+Welcome to the repository of <insert team name here> for NASA Space Apps Challenge!
